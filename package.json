@@ -1,6 +1,6 @@
 {
   "name": "@thorsten-wolf-neptune/dxp-dep-sap_basis",
-  "version": "700.0.0",
+  "version": "731.0.0",
   "description": "SAP Basis Release",
   "main": "index.js",
   "scripts": {
